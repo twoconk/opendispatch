@@ -4,4 +4,4 @@
 系统组件&支持：
 1、WebRTC服务端：Janus
 
-2、WebRTC客户端：浏览器支持（Chrome/Firefox/Safari）、Android
+2、WebRTC客户端：支持浏览器（Chrome/Firefox/Safari）、Android客户端
